@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 Sobre mim:
-- Formado em Engenharia da Computação em 2018.<br>- Programando e estudando ReactJs com Typescript e NextJS e estilizando tudo com TailwindCSS<br> - Estudos de automação de tarefas, análise de dados, webscrapping e reconhecimento de imagens com Python.
+- Formado em Engenharia da Computação em 2018.<br>-  Atualmente estou programando e estudando React com Typescript, utilizando o framework NextJS e estilizando tudo com TailwindCSS<br> - Estudos de automação de tarefas, análise de dados, webscrapping e reconhecimento de imagens com Python.
 
 
 ## 🌐 Redes Sociais:
